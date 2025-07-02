@@ -1,4 +1,4 @@
-# API de Gestão de Alunos e Matrículas
+# 📄 API de Gestão de Alunos e Matrículas
 
 Projeto Pessoal para prática e estudos em Java e Spring, onde realizo a gestão de Alunos e suas respectivas matrículas.
 A gestão das matrículas é realizada onde ao criar o aluno automaticamente também uma matrícula, e ao deletar todas as matrículas do aluno, respectivamente o aluno é excluído.
