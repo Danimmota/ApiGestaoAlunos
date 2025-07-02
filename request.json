@@ -1,0 +1,24 @@
+{
+  "nome" : "Daniela Mota",
+  "telefone" : "619456852",
+  "dataNascimento" : "1990-05-24",
+  "matriculas" : [
+    {
+      "codigoMatricula" : "123",
+      "nomeCurso" : "Programacao Java",
+      "dataInicio" : "2025-06-15"
+    }
+  ]
+}
+{
+  "nome" : "Ismael Vieiraa",
+  "telefone" : "6155884422",
+  "dataNascimento" : "1991-02-25",
+  "matriculas" : [
+    {
+      "codigoMatricula" : "1234",
+      "nomeCurso" : "Programacao",
+      "dataInicio" : "2025-07-25"
+    }
+  ]
+}
